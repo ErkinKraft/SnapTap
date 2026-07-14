@@ -1,1 +1,1 @@
-pyinstaller snaptap1.py --onefile --hidden-import keyboard --hidden-import art
+pyinstaller snaptap1.py --onefile --uac-admin --hidden-import keyboard --hidden-import ctypes --hidden-import sys --hidden-import threading --hidden-import future
