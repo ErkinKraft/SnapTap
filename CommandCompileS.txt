@@ -1,1 +1,1 @@
-pyinstaller snaptap1.py --onefile --uac-admin --hidden-import keyboard --hidden-import ctypes --hidden-import sys --hidden-import threading --hidden-import future
+pyinstaller snaptap1.py --onefile --uac-admin --hidden-import keyboard --hidden-import ctypes --hidden-import sys --hidden-import threading --hidden-import future --hidden-import math --hidden-import tkinter --hidden-import pathlib --add-data "logoW.png;." --noconsole
