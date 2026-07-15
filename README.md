@@ -2,6 +2,12 @@
 
 Режим Snap Tap (last-input-wins) для WASD: при одновременном зажатии противоположных направлений приоритет у последней нажатой клавиши. Если её отпустить, а противоположная ещё зажата - движение снова идёт в ту сторону.
 
+
+<img width="444" height="654" alt="screen" src="https://github.com/user-attachments/assets/15b95f45-2bc3-448d-8a5e-84fb4110095c" />
+<img width="446" height="656" alt="screen1" src="https://github.com/user-attachments/assets/521d8848-e279-4afc-bdb3-0c9af3e36e6a" />
+
+
+
 ## Установка
 
 1. Скачайте последний релиз **или**:
